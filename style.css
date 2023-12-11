@@ -128,7 +128,7 @@ max-width: 40px;
 }
 .movie-item:hover .move-item-iframe{
     display: block;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 .movie-item:hover{
     transform: scale(1.1);
